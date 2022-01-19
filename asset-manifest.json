@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "https://ooni0921.github.io/csb-pcq5o/static/css/main.db430fef.chunk.css",
+    "main.js": "https://ooni0921.github.io/csb-pcq5o/static/js/main.33f179dc.chunk.js",
+    "main.js.map": "https://ooni0921.github.io/csb-pcq5o/static/js/main.33f179dc.chunk.js.map",
+    "runtime-main.js": "https://ooni0921.github.io/csb-pcq5o/static/js/runtime-main.639a420d.js",
+    "runtime-main.js.map": "https://ooni0921.github.io/csb-pcq5o/static/js/runtime-main.639a420d.js.map",
+    "static/css/2.11829350.chunk.css": "https://ooni0921.github.io/csb-pcq5o/static/css/2.11829350.chunk.css",
+    "static/js/2.5d72e1da.chunk.js": "https://ooni0921.github.io/csb-pcq5o/static/js/2.5d72e1da.chunk.js",
+    "static/js/2.5d72e1da.chunk.js.map": "https://ooni0921.github.io/csb-pcq5o/static/js/2.5d72e1da.chunk.js.map",
+    "index.html": "https://ooni0921.github.io/csb-pcq5o/index.html",
+    "precache-manifest.d8dafdf440e91e92cd90d557437850cc.js": "https://ooni0921.github.io/csb-pcq5o/precache-manifest.d8dafdf440e91e92cd90d557437850cc.js",
+    "service-worker.js": "https://ooni0921.github.io/csb-pcq5o/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "https://ooni0921.github.io/csb-pcq5o/static/css/2.11829350.chunk.css.map",
+    "static/css/main.db430fef.chunk.css.map": "https://ooni0921.github.io/csb-pcq5o/static/css/main.db430fef.chunk.css.map",
+    "static/js/2.5d72e1da.chunk.js.LICENSE.txt": "https://ooni0921.github.io/csb-pcq5o/static/js/2.5d72e1da.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.639a420d.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.5d72e1da.chunk.js",
+    "static/css/main.db430fef.chunk.css",
+    "static/js/main.33f179dc.chunk.js"
+  ]
+}
